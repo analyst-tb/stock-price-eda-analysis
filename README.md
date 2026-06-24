@@ -142,6 +142,3 @@ This Exploratory Data Analysis provided a comprehensive understanding of the sto
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-
-
-This version is detailed enough for recruiters, hiring managers, internship supervisors, and anyone viewing your GitHub portfolio.
